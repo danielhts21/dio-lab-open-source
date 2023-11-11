@@ -16,6 +16,8 @@
 
 [Desafios de Projetos: Crie Um Portfólio Vencedor](https://www.dio.me/certificate/6222BF4F/share)
 
+[Contribuindo em um Projeto Open Source no GitHub](https://www.dio.me/certificate/492BB026/share)
+
 
 ## Algumas das linguagens que eu sei
 ### Em breve, atualização!

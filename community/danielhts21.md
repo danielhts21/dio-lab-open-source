@@ -17,7 +17,7 @@
 [Desafios de Projetos: Crie Um Portfólio Vencedor](https://www.dio.me/certificate/6222BF4F/share)
 
 
-## Algumas das liguagens que eu sei
+## Algumas das linguagens que eu sei
 ### Em breve, atualização!
 
 ## Minha Habilidades (ou a falta delas)
